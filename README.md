@@ -29,3 +29,4 @@ Crear artefactos: http://127.0.0.1:8000/AGI/crear_artefactos
 Ver/editar/eliminar artefactos: http://127.0.0.1:8000/AGI/ver_artefactos
 Editar usuario: http://127.0.0.1:8000/AGI/edit
 Editar avatar: http://127.0.0.1:8000/AGI/avatar
+About me: http://127.0.0.1:8000/AGI/about
